@@ -1,0 +1,23 @@
+{
+  "name": "deploy-contract-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyasandeep007/deploy-smart-contract-using-hardhat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyasandeep007/deploy-smart-contract-using-hardhat/issues"
+  },
+  "homepage": "https://github.com/satyasandeep007/deploy-smart-contract-using-hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.11.0"
+  }
+}
